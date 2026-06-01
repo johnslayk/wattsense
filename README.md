@@ -2,6 +2,12 @@
 
 > Sistema embarcado de medição de consumo de energia elétrica em tempo real, desenvolvido com **ESP32**, **ADS1115** e **transformadores de corrente (TCs)**. Os dados são publicados via MQTT em um broker público e exibidos localmente em um display LCD 16x2.
 
+> Equipe:  
+Alan da Silva Piana - RA: 26001149  
+Johnny Phillip de Oliveira Tiengo - RA: 26000572  
+Jonathan Wilian Rodrigues Silva - RA: 26000080  
+Kauã da Silva Santos - RA: 26001488
+
 ---
 
 ## 📋 Índice
